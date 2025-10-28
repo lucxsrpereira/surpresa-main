@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+}
+
+.textocliqueaqui {
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+}
+
+.divcliqueaqui {
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.interrogação {
+    font-size: 80px;
+    margin-bottom: 0;
+    text-align: center;
+}
